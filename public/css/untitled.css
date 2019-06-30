@@ -1,0 +1,26 @@
+.pb-5, .py-5 {
+  padding: 1rem!important;
+}
+
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(0,0,0,0);
+}
+
+#yes {
+  max-width: 240px;
+  border-radius: 10px 30px 30px 5px;
+}
+
+#avatar {
+  margin-left: -55px;
+  margin-bottom: -66px;
+}
+
+#need {
+  margin-bottom: -66px;
+  margin-top: 60px;
+}
+
+
